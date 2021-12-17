@@ -1,0 +1,60 @@
+{
+  "posts": {
+   "status":{
+      "connection_status":"successful",
+      "operation_status":"successful",
+      "Customer":{
+         "data_id":101725353,
+         "data_crm_id":309714228,
+         "data_email":"office@metalabs.tech",
+         "data_FirstName":"Peter",
+         "data_LastName":"Peshev",
+         "data_placement":null,
+         "data_gender":null,
+         "data_phone":"359883305972",
+         "data_Country":33,
+         "data_city":null,
+         "data_street":null,
+         "data_postCode":null,
+         "data_birthday":null,
+         "data_timeZone":null,
+         "data_Currency":"USD",
+         "data_regTime":"2021-12-17 11:55:08",
+         "data_campaignId":1001736,
+         "data_subCampaign":null,
+         "data_a_aid":null,
+         "data_a_bid":null,
+         "data_a_cid":null,
+         "data_areTermsAccepted":true,
+         "data_countryISO":"BG",
+         "data_siteLanguage":null,
+         "data_campaignName":"Cashstorm_IND_LT",
+         "data_affiliateId":10958,
+         "data_campaign_id":1001736,
+         "data_affiliate_id":10958,
+         "data_site_id":"409",
+         "data_linkID":null,
+         "data_traffic_descript":"Information about the landing page from which the client came is displayed in the subCampaign field.",
+         "data_authKey":"871626203f7e43f794930da4326e613a",
+         "data_authKeyExpiry":"2021121712550903",
+         "data_regStatus":"pending",
+         "data_leadConversionSource":"API",
+         "data_vipGroup":"Regular",
+         "data_verification":"none",
+         "data_subCampaignId":null,
+         "data_hashedEmail":"d28c072a7d59b09e848a34488aa4e456",
+         "data_saleStatus":"new",
+         "data_crm_sales_status":"New",
+         "data_newCustomer":1,
+         "data_isLead":0,
+         "data_sourcePlatformId":2,
+         "data_regulateType":0,
+         "data_tradingPlatformName":"Web Platform",
+         "data_isMailSubscribed":false
+      }
+   }
+},
+  "profile": {
+    "name": "typicode"
+  }
+}
