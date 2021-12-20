@@ -1,6 +1,5 @@
 {
-  "posts": {"status":{"connection_status":"successful", "operation_status":"failed","errors":{"error":["Email is already registered"]}}}
-},
+  "posts": {"status":{"connection_status":"successful", "operation_status":"failed","errors":{"error":["Email is already registered"]}}},
   "profile": {
     "name": "typicode"
   }
